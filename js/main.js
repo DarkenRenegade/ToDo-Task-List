@@ -2,5 +2,5 @@ class Task {
 }
 let myTask = new Task();
 myTask.taskname = "Shop for groceries";
-myTask.status = true;
+myTask.iscomplete = true;
 console.log(myTask);
